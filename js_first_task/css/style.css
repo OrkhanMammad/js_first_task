@@ -1,0 +1,23 @@
+#btncss{
+    padding: 8px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    font-weight: 700;
+}
+.body{
+    background-color: white;
+}
+#moon{
+    border: 0;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+#lightBulb{
+    height: 150px;
+    width: 100px;
+    filter: grayscale(100%);
+}
